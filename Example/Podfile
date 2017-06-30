@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SVSegmentedControlSwift_Example' do
+  pod 'SVSegmentedControlSwift', :path => '../'
+
+  target 'SVSegmentedControlSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
