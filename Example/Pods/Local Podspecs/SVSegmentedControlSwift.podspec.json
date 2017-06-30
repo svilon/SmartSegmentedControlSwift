@@ -1,0 +1,24 @@
+{
+  "name": "SVSegmentedControlSwift",
+  "version": "0.1.0",
+  "summary": "UISegmentedControl replacement which provides more accurate segments width management",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/svilon/SVSegmentedControlSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eugene Shevtsov": "i.i.shevtsov@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/svilon/SVSegmentedControlSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "module_name": "SVSegmentedControl",
+  "source_files": "SVSegmentedControlSwift/Classes/**/*",
+  "frameworks": "UIKit"
+}

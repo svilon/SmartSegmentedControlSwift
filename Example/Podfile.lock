@@ -1,0 +1,16 @@
+PODS:
+  - SVSegmentedControlSwift (0.1.0)
+
+DEPENDENCIES:
+  - SVSegmentedControlSwift (from `../`)
+
+EXTERNAL SOURCES:
+  SVSegmentedControlSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SVSegmentedControlSwift: 18f21ef9138f36d3a591a906cbe3438361a50def
+
+PODFILE CHECKSUM: 06e9df4ae0346350f9a0e48666a87213a45da36d
+
+COCOAPODS: 1.2.1

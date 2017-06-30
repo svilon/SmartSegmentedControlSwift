@@ -9,34 +9,22 @@
 Pod::Spec.new do |s|
   s.name             = 'SVSegmentedControlSwift'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SVSegmentedControlSwift.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.summary          = 'UISegmentedControl replacement which provides more accurate segments width management'
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Eugene Shevtsov/SVSegmentedControlSwift'
+  s.homepage         = 'https://github.com/svilon/SVSegmentedControlSwift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Eugene Shevtsov' => 'i.i.shevtsov@gmail.com' }
-  s.source           = { :git => 'https://github.com/Eugene Shevtsov/SVSegmentedControlSwift.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/svilon/SVSegmentedControlSwift.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
+  s.module_name  = 'SVSegmentedControl'
 
   s.source_files = 'SVSegmentedControlSwift/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'SVSegmentedControlSwift' => ['SVSegmentedControlSwift/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'UIKit'
 end
