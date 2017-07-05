@@ -6,9 +6,12 @@
 
 This control was created to solve issue, that native UISegmentedControl has. Reffer to SVSegmentedControl for obj-c version.
 UISegmentedControl has issue with apportionsSegmentWidthsByContent setting (adjust segments width proportionally to content). Often, it appears that control bounds are wider, than actual segments width. See screenshot bellow - I put yellow color as layer background.
-[UISegmentedControl](https://github.com/svilon/SVSegmentedControlSwift/blob/master/Screens/UISegmentedControl.png)
+
+![UISegmentedControl](https://github.com/svilon/SVSegmentedControlSwift/blob/master/Screens/UISegmentedControl.png)
+
 With SVSegmentedControl issue is fixed and same segmented control will look like:
-[SVSegmentedControl](https://github.com/svilon/SVSegmentedControlSwift/blob/master/Screens/SVSegmentedControl.png)
+
+![SVSegmentedControl](https://github.com/svilon/SVSegmentedControlSwift/blob/master/Screens/SVSegmentedControl.png)
 
 Also, SVSegmentedControl introduces “smart” mode, where, if there is enough room, every segment, that needs to be wider than average width, gets enough room to display content (which is usually less then in proportional mode). If there is no enough room for all content - segments width is distributed proportionally (fixed, of course :) ).
 
