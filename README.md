@@ -39,10 +39,6 @@ it, simply add the following line to your Podfile:
 pod "SVSegmentedControlSwift"
 ```
 
-## Author
-
-Eugene Shevtsov, i.i.shevtsov@gmail.com
-
 ## License
 
 SVSegmentedControlSwift is available under the MIT license. See the LICENSE file for more info.
