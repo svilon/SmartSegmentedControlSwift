@@ -11,7 +11,7 @@ UISegmentedControl has issue with apportionsSegmentWidthsByContent setting (adju
 
 With SmartSegmentedControl issue is fixed and same segmented control will look like:
 
-![SmartSegmentedControl](https://github.com/svilon/SmartSegmentedControlSwift/blob/master/Screens/SmartSegmentedControlSwift.png)
+![SmartSegmentedControl](https://github.com/svilon/SmartSegmentedControlSwift/blob/master/Screens/SmartSegmentedControl.png)
 
 Also, SmartSegmentedControl introduces “smart” mode, where, if there is enough room, every segment, that needs to be wider than average width, gets enough room to display content (which is usually less then in proportional mode). If there is no enough room for all content - segments width is distributed proportionally (fixed, of course :) ).
 
