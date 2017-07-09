@@ -89,10 +89,10 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_framework "$BUILT_PRODUCTS_DIR/SVSegmentedControlSwift/SVSegmentedControl.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/SmartSegmentedControlSwift/SmartSegmentedControl.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_framework "$BUILT_PRODUCTS_DIR/SVSegmentedControlSwift/SVSegmentedControl.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/SmartSegmentedControlSwift/SmartSegmentedControl.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

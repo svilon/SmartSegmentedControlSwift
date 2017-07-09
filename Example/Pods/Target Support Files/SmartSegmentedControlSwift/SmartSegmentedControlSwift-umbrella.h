@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double SVSegmentedControlVersionNumber;
-FOUNDATION_EXPORT const unsigned char SVSegmentedControlVersionString[];
+FOUNDATION_EXPORT double SmartSegmentedControlVersionNumber;
+FOUNDATION_EXPORT const unsigned char SmartSegmentedControlVersionString[];
 

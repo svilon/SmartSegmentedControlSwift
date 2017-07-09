@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## SVSegmentedControlSwift
+## SmartSegmentedControlSwift
 
 Copyright (c) 2017 Eugene Shevtsov <i.i.shevtsov@gmail.com>
 

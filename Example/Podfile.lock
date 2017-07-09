@@ -1,16 +1,16 @@
 PODS:
-  - SVSegmentedControlSwift (0.1.0)
+  - SmartSegmentedControlSwift (0.1.1)
 
 DEPENDENCIES:
-  - SVSegmentedControlSwift (from `../`)
+  - SmartSegmentedControlSwift (from `../`)
 
 EXTERNAL SOURCES:
-  SVSegmentedControlSwift:
+  SmartSegmentedControlSwift:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SVSegmentedControlSwift: 18f21ef9138f36d3a591a906cbe3438361a50def
+  SmartSegmentedControlSwift: 64d7bc1e8a04c59d0fe72d54eb51ae2e5f363b85
 
-PODFILE CHECKSUM: 06e9df4ae0346350f9a0e48666a87213a45da36d
+PODFILE CHECKSUM: 3bcd6bc987e0974203a0b926f088b665370b6b22
 
 COCOAPODS: 1.2.1

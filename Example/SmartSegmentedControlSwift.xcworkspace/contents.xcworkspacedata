@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/svilon/Documents/_sources/_MyFrameworks/SVSegmentedControlSwift/Example/SmartSegmentedControlSwift.xcodeproj">
+      location = "group:SmartSegmentedControlSwift.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

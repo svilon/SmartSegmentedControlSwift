@@ -1,6 +1,6 @@
 //
-//  SVSegmentedControl.swift
-//  SVSegmentedControllSwift
+//  SmartSegmentedControl.swift
+//  SmartSegmentedControlSwift
 //
 //  Created by Ievgen Shevtsov on 5/28/17.
 //
@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-public class SVSegmentedControl: UISegmentedControl {
+public class SmartSegmentedControl: UISegmentedControl {
     
     // MARK: properties
     @IBInspectable public var smartAdjustment: Bool = false
@@ -141,7 +141,7 @@ public class SVSegmentedControl: UISegmentedControl {
 }
 
 // MARK: calculations
-private extension SVSegmentedControl {
+private extension SmartSegmentedControl {
     
     func widthsForSegmentsTitles() -> Array<CGFloat> {
         let attributes: [String : Any]

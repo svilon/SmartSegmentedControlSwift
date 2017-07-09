@@ -1,13 +1,13 @@
 //
 //  ViewController.swift
-//  SVSegmentedControllSwift
+//  SmartSegmentedControlSwift
 //
 //  Created by Ievgen Shevtsov on 5/27/17.
 //
 //
 
 import UIKit
-import SVSegmentedControl
+import SmartSegmentedControl
 
 class ViewController: UIViewController, UITextFieldDelegate {
 
@@ -16,7 +16,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var mainScrollBottomConstraint:NSLayoutConstraint!
     
     @IBOutlet weak var controlContainerScrollView:UIScrollView!
-    @IBOutlet weak var configurableControl: SVSegmentedControl!
+    @IBOutlet weak var configurableControl: SmartSegmentedControl!
     @IBOutlet weak var configurableControlWidthConstraint:NSLayoutConstraint!
     
     @IBOutlet weak var controlWidthTextField:UITextField!

@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_SVSegmentedControlSwift_ExampleVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_SVSegmentedControlSwift_ExampleVersionString[];
+FOUNDATION_EXPORT double Pods_SmartSegmentedControlSwift_ExampleVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_SmartSegmentedControlSwift_ExampleVersionString[];
 

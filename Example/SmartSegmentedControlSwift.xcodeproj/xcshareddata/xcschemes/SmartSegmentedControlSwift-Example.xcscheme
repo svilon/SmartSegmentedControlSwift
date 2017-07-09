@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-               BuildableName = "SVSegmentedControlSwift_Example.app"
-               BlueprintName = "SVSegmentedControlSwift_Example"
-               ReferencedContainer = "container:SVSegmentedControlSwift.xcodeproj">
+               BuildableName = "SmartSegmentedControlSwift_Example.app"
+               BlueprintName = "SmartSegmentedControlSwift_Example"
+               ReferencedContainer = "container:SmartSegmentedControlSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
                BuildableName = "SVSegmentedControlSwift_Tests.xctest"
                BlueprintName = "SVSegmentedControlSwift_Tests"
-               ReferencedContainer = "container:SVSegmentedControlSwift.xcodeproj">
+               ReferencedContainer = "container:SmartSegmentedControlSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
                BuildableName = "SVSegmentedControlSwift_Tests.xctest"
                BlueprintName = "SVSegmentedControlSwift_Tests"
-               ReferencedContainer = "container:SVSegmentedControlSwift.xcodeproj">
+               ReferencedContainer = "container:SmartSegmentedControlSwift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "SVSegmentedControlSwift_Example.app"
-            BlueprintName = "SVSegmentedControlSwift_Example"
-            ReferencedContainer = "container:SVSegmentedControlSwift.xcodeproj">
+            BuildableName = "SmartSegmentedControlSwift_Example.app"
+            BlueprintName = "SmartSegmentedControlSwift_Example"
+            ReferencedContainer = "container:SmartSegmentedControlSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "SVSegmentedControlSwift_Example.app"
-            BlueprintName = "SVSegmentedControlSwift_Example"
-            ReferencedContainer = "container:SVSegmentedControlSwift.xcodeproj">
+            BuildableName = "SmartSegmentedControlSwift_Example.app"
+            BlueprintName = "SmartSegmentedControlSwift_Example"
+            ReferencedContainer = "container:SmartSegmentedControlSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -99,9 +99,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "SVSegmentedControlSwift_Example.app"
-            BlueprintName = "SVSegmentedControlSwift_Example"
-            ReferencedContainer = "container:SVSegmentedControlSwift.xcodeproj">
+            BuildableName = "SmartSegmentedControlSwift_Example.app"
+            BlueprintName = "SmartSegmentedControlSwift_Example"
+            ReferencedContainer = "container:SmartSegmentedControlSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

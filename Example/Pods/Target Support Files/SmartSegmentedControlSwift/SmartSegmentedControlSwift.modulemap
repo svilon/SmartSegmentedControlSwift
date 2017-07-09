@@ -1,0 +1,6 @@
+framework module SmartSegmentedControl {
+  umbrella header "SmartSegmentedControlSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
